@@ -1,0 +1,17 @@
+# 회원 가입
+POST http://localhost:8080/api/v1/member/new
+Content-Type: application/json
+
+{
+  "userId" : "user1",
+  "password1": "123",
+  "password2": "123"
+}
+
+
+
+
+
+
+
+
